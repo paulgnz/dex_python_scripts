@@ -1,6 +1,12 @@
 # dex_python_scripts
 various python scripts for protondex
 
+This is a work in progress. Maybe it will be helpful to someone!
+
+1. Ensure you have python installed
+2. Clone repo
+3. Explore!
+
 https://api-docs.protondex.com/
 
 ## Trades
