@@ -9,12 +9,21 @@ https://api-docs.protondex.com/
 
 To get the trades history for a specific account, market and number of hours in the past to look for, use the following command:
 
-**Example**
-account: paul
-market: XDOGE_XMD
-hours: 24
-
 ```python dex.py trades history <account> <market> <hours>```
+
+For Example
+
+```python dex.py trades history paul XDOGE_XMD 24```
+
+### Get Daily Stats
+
+To get the daily stats for a specific market, use the following command:
+
+```python dex.py trades daily <market>```
+
+For Example
+
+```python dex.py trades daily XDOGE_XMD```
 
 
 
