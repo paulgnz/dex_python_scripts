@@ -7,7 +7,12 @@ https://api-docs.protondex.com/
 
 ### Get Trades History
 
-To get the trades history for a specific account and market, use the following command:
+To get the trades history for a specific account, market and number of hours in the past to look for, use the following command:
+
+**Example**
+account: paul
+market: XDOGE_XMD
+hours: 24
 
 ```python dex.py trades history <account> <market> <hours>```
 
