@@ -1,5 +1,5 @@
 # dex_python_scripts
-various python scripts for protondex
+various python scripts for metalx
 
 This is a work in progress. Maybe it will be helpful to someone!
 
@@ -7,7 +7,7 @@ This is a work in progress. Maybe it will be helpful to someone!
 2. Clone repo
 3. Explore!
 
-https://api-docs.protondex.com/
+https://api.dex.docs.metalx.com/reference/what-is-metal-x
 
 ## Trades
 
@@ -54,5 +54,4 @@ Proton Blockchains offers no gas fees to users, this combined with the secure De
 
 Learn more about the Proton blockchain and ecosystem in this overview.
 
-https://docs.protondex.com/dex/what-is-proton-dex/proton-dex-faq
-
+https://api.dex.docs.metalx.com/reference/what-is-metal-x
