@@ -3,7 +3,7 @@ import requests
 import json
 from datetime import datetime, timedelta
 
-BASE_URL = "https://mainnet.api.protondex.com"
+BASE_URL = "https://dex.api.mainnet.metalx.com"
 
 def get_trades_history(account, market, hours):
     url = f"{BASE_URL}/dex/v1/trades/history?account={account}&symbol={market}&offset=0&limit=100"
