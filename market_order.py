@@ -35,7 +35,7 @@ def main(order_side, amount_xmd):
 
     # Replace with your account name
     USERNAME = 'trading.paul'
-    permission = {USERNAME: 'dex'}
+    permission = {USERNAME: 'active'}
 
     # Replace Trade Parameters
     BID_TOKEN_CONTRACT = 'xtokens'
